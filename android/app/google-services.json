@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540817053313",
+    "project_id": "motionmix-50f7d",
+    "storage_bucket": "motionmix-50f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540817053313:android:7c456d4bd98040fe0d9f80",
+        "android_client_info": {
+          "package_name": "com.example.motion_mix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJ0mfegs28pOzqoVRTV9o0LAamuYYUvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
